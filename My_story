@@ -1,0 +1,21 @@
+1) The isAuthenticate.js file is for user authentication
+
+2) config.json file contains database configuration which can be written in connection.js file which comes under config folder.
+
+3) passport.js contains database queries.
+
+4) Model folder has two files named index.js and user.js which contains database models for username and password.
+
+5) login.js file in js folder has code for login. 
+
+6) members.js file has api request which should come under routes folder
+
+7) signup.js file generates sign up form.
+
+8) login.html, members.html and signup.html contains html requred for the application.
+
+9) In api-routes.js and html-routes has api requests.  routes folder should have one index.js file which holds all the routes 
+together.
+
+10) server.js initialize the server and holds all necessary middleware paths to connect front end with back end.
+
